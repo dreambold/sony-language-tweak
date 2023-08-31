@@ -26,7 +26,9 @@ pip install -r requirements.txt  # to install the dependencies
 ./pmca-console.py  # for the command line application
 ./pmca-gui.py  # for the gui application
 ```
-
+```bash
+sudo ./pmca-console.py serviceshell
+```
 ## Usage
 There are three main modes of interfacing with a camera:
 
